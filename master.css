@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: black;
+}
+h1{
+    text-transform: capitalize;
+    color: aliceblue;
+    position: absolute;
+    z-index: 1;
+}
